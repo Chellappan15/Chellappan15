@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chellappan! 
-- 👀 I'm deeply passionate about Software Development and UI/UX Designs.
-- 🌱 Currently, I'm delving into Node.js to strengthen my skills in Backend Development and App Development.
+- 👀 I'm deeply passionate about Software Development and Building AI systems.
+- 🌱 Currently, I'm delving into Agentic AI to strengthen my skills in Artificial Intelligence.
 - 💞️ I’m eager to collaborate on impactful web development projects.
 - 📫 You can reach out to me via email at chellappan135@gmail.com.
 - 😄 Pronouns: He/Him

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chellappan! 
-- 👀 I'm deeply passionate about Software Development and Building AI systems.
+- 👀 I'm deeply passionate about Software Development and Building AI systems that makes a real impact.
 - 🌱 Currently, I'm delving into Agentic AI to strengthen my skills in Artificial Intelligence.
 - 💞️ I’m eager to collaborate on impactful web development projects.
 - 📫 You can reach out to me via email at chellappan135@gmail.com.
